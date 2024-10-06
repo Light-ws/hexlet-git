@@ -1,0 +1,7 @@
+# filename: .gitignore
+access.log
+INFO.md
+node_modules/
+/coverage/
+/db/*.sqlite3
+doc/**/*.txt
